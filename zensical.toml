@@ -1,22 +1,29 @@
 [project]
 site_url = "https://www.example.com/"
-site_name = "Documentation"
-# site_description = "Your project description"
-# site_author = "Your name"
+site_name = "Web Development Cheatsheet"
+site_description = "Cheatsheet for refreshing my web development knowledge"
+site_author = "Farid NL"
 
-# copyright = "Copyright &copy; 2026 Your name"
+copyright = "Copyright &copy; 2026 Farid NL"
 
 # repo_url = "https://github.com/user/repo"
 # repo_name = "user/repo"
 # edit_uri = "edit/main/docs/"
 
 nav = [
-  { "Get started" = "index.md" },
-  { "Markdown in 5min" = "markdown.md" },
+  { "HTML" = [
+    { "Introducción" = "html/01-introduction.md" },
+    { "Texto" = "html/02-text.md" },
+    { "Hipervínculos" = "html/03-hyperlinks.md" },
+    { "Imagenes" = "html/04-images.md" },
+    { "Formularios" = "html/05-forms.md" },
+    { "Contenedores" = "html/06-containers.md" },
+    { "Tablas" = "html/07-tables.md" },
+  ] },
 ]
 
-# extra_css = ["stylesheets/extra.css"]
-# extra_javascript = ["javascripts/extra.js"]
+# extra_css = ["assets/css/extra.css"]
+# extra_javascript = ["assets/js/extras.mjs"]
 
 [project.theme]
 # variant = "classic"
@@ -43,7 +50,7 @@ features = [
   "navigation.path",
   # "navigation.prune",
   "navigation.sections",
-  # "navigation.tabs",
+  "navigation.tabs",
   # "navigation.tabs.sticky",
   "navigation.top",
   "navigation.tracking",
