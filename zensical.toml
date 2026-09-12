@@ -20,6 +20,14 @@ nav = [
     { "Contenedores" = "html/06-containers.md" },
     { "Tablas" = "html/07-tables.md" },
   ] },
+  { "CSS" = [
+    { "Introducción" = "css/01-introduction.md" },
+    { "Texto" = [
+      { "Estilo" = "css/02-text/01-style.md" },
+      { "Tamaño y espaciado" = "css/02-text/02-size.md" },
+      { "Color y familia" = "css/02-text/03-color.md" },
+    ] },
+  ] },
 ]
 
 # extra_css = ["assets/css/extra.css"]
