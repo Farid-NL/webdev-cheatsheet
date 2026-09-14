@@ -11,7 +11,7 @@ CSS trata a cada elemento HTML como si estuviera dentro de una caja invisible.
     Saber si un elemento HTML es de tipo [bloque o en línea](../html/06-containers/#__tabbed_1_1) es crucial,
     ya que influye significativamente en el estilo y diseño CSS
 
-![Tarjeta de Resumen CSS 1](../assets/images/CSS-Summary-Card-1.svg)
+![Tarjeta de Resumen CSS 1](../assets/images/css/01-introduction/00-summary.svg)
 
 === "CSS Properties"
 

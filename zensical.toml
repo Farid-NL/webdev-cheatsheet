@@ -27,6 +27,11 @@ nav = [
       { "Tamaño y espaciado" = "css/02-text/02-size.md" },
       { "Color y familia" = "css/02-text/03-color.md" },
     ] },
+    { "Selectores" = [
+      { "Basicos" = "css/03-selectors/01-basics.md" },
+      { "Pseudo y Especificidad" = "css/03-selectors/02-pseudo.md" },
+      { "Universal y Herencia" = "css/03-selectors/03-universal.md" },
+    ] },
   ] },
 ]
 
