@@ -4,7 +4,7 @@ icon: lucide/image
 
 # Imagenes y Etiquetas Autocerradas
 
-![Tarjeta de Resumen HTML 4](../assets/images/HTML Summary Cards_page_5.svg)
+![Tarjeta de Resumen HTML 4](../assets/images/html/04-images/00-summary.svg)
 
 !!! info "Etiquetas de autocierre"
     Etiquetas que no contienen texto de cierre explicito como `#!html <hr>` o `#!html <hr />`.

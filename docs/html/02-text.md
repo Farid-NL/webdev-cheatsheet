@@ -4,7 +4,7 @@ icon: lucide/type
 
 # Texto
 
-![Tarjeta de Resumen HTML 2](../assets/images/HTML Summary Cards_page_3.svg)
+![Tarjeta de Resumen HTML 2](../assets/images/html/02-text/00-summary.svg)
 
 === "Headings"
 

@@ -6,7 +6,7 @@ icon: lucide/text-cursor-input
 
 Recopilan y envían datos proporcionados por el usuario a un servidor web para su procesamiento.
 
-![Tarjeta de Resumen HTML 5](../assets/images/HTML Summary Cards_page_6.svg)
+![Tarjeta de Resumen HTML 5](../assets/images/html/05-forms/00-summary.svg)
 
 ??? info "Envío del formulario"
 
