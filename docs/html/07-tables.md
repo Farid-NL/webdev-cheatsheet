@@ -4,7 +4,7 @@ icon: lucide/table-2
 
 # Tablas y HTML Científico
 
-![Tarjeta de Resumen HTML 7](../assets/images/HTML Summary Cards_page_8.svg)
+![Tarjeta de Resumen HTML 7](../assets/images/html/07-tables/00-summary.svg)
 
 === "Tables"
 

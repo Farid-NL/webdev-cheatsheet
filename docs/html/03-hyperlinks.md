@@ -4,7 +4,7 @@ icon: lucide/link
 
 # Rutas de archivo, hipervínculos y atributos
 
-![Tarjeta de Resumen HTML 3](../assets/images/HTML Summary Cards_page_4.svg)
+![Tarjeta de Resumen HTML 3](../assets/images/html/03-hyperlink/00-summary.svg)
 
 === "Anchor Tags & Attributes"
 

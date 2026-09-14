@@ -4,7 +4,7 @@ icon: lucide/square-dashed
 
 # Contenedores y HTML Semántico
 
-![Tarjeta de Resumen HTML 6](../assets/images/HTML Summary Cards_page_7.svg)
+![Tarjeta de Resumen HTML 6](../assets/images/html/06-containers/00-summary.svg)
 
 === "Block & Inline Elements"
 

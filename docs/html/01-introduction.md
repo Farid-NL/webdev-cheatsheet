@@ -4,7 +4,7 @@ icon: lucide/book-open
 
 # Introducción
 
-![Tarjeta de Resumen HTML 1](../assets/images/HTML Summary Cards_page_2.svg)
+![Tarjeta de Resumen HTML 1](../assets/images/html/01-introduction/00-summary.svg)
 
 === "Tags"
 
