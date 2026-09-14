@@ -4,7 +4,7 @@ icon: lucide/ruler-dimension-line
 
 # Tamaño y espaciado de texto
 
-![Tarjeta de Resumen CSS 3](../../assets/images/CSS-Summary-Card-3.svg)
+![Tarjeta de Resumen CSS 3](../../assets/images/css/02-text/02-size/00-summary.svg)
 
 === "Text Align"
 
@@ -14,7 +14,7 @@ icon: lucide/ruler-dimension-line
 
         |Bloque|En línea|
         |---|---|
-        |**Si** hay espacio para que el ^^texto pueda moverse^^<br>![Text Align - Block vs Inline](../../assets/images/text-align-block.svg)|**No** hay espacio para que el ^^texto pueda moverse^^<br>![Text Align - Block vs Inline](../../assets/images/text-align-inline.svg)|
+        |**Si** hay espacio para que el ^^texto pueda moverse^^<br>![Text Align - Block vs Inline](../../assets/images/css/02-text/02-size/01-text-align-block.svg)|**No** hay espacio para que el ^^texto pueda moverse^^<br>![Text Align - Block vs Inline](../../assets/images/css/02-text/02-size/01-text-align-inline.svg)|
 
     !!! tip "Guía"
 

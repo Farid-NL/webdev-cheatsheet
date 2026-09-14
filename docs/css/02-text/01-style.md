@@ -4,7 +4,7 @@ icon: lucide/italic
 
 # Estilo de texto
 
-![Tarjeta de Resumen CSS 2](../../assets/images/CSS-Summary-Card-2.svg)
+![Tarjeta de Resumen CSS 2](../../assets/images/css/02-text/01-styling/00-summary.svg)
 
 === "Font Weight"
 
@@ -42,7 +42,7 @@ icon: lucide/italic
     !!! tip "Guía"
 
         **Siempre** remueve el estilo de las listas cuando sean
-        usadas con [propositos estructurales](../../html/02-text/#__tabbed_1_3).
+        usadas con [propositos estructurales](../../html/02-text#__tabbed_1_3).
 
 === "Text Decoration"
 
