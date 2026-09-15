@@ -21,7 +21,7 @@ icon: lucide/link
 
     - **URL Absoluta:** Dirección completa en la web.
         ```html
-        <a href="[https://www.facebook.com/quillapp](https://www.facebook.com/quillapp)">Facebook Page</a>
+        <a href="https://www.facebook.com/quillapp">Facebook Page</a>
         ```
     - **URL Relativa:** Enlace a un archivo dentro del mismo proyecto.
         ```html

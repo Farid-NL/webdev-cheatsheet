@@ -42,7 +42,7 @@ icon: lucide/italic
     !!! tip "Guía"
 
         **Siempre** remueve el estilo de las listas cuando sean
-        usadas con [propositos estructurales](../../html/02-text#__tabbed_1_3).
+        usadas con [propositos estructurales](../../html/02-text.md#__tabbed_2_2).
 
 === "Text Decoration"
 
