@@ -8,7 +8,7 @@ icon: lucide/link
 
 === "Anchor Tags & Attributes"
 
-    Los atributos proveen información adicional a las etiquetas mediante pares de `nombre="valor"`.
+    Los atributos proporcionan información adicional a las etiquetas mediante pares de `nombre="valor"`.
 
     ```html
     <a href="register.html">Get Started</a>
@@ -30,7 +30,7 @@ icon: lucide/link
 
 === "The ID Attribute"
 
-    Asigna un identificador único para vincular o dar estilo a un elemento.
+    Se utiliza para asignar un identificador único que permite vincular o dar estilo a un elemento.
 
     ```html
     <h2 id="features">How it works</h2>

@@ -8,25 +8,25 @@ icon: lucide/hash
 
 === "Type Selector"
 
-    Selecciona elementos basado en el nombre de su [etiqueta](../../html/01-introduction.md#__tabbed_1_1).
+    Selecciona elementos basados en el nombre de su [etiqueta](../../html/01-introduction.md#__tabbed_1_1).
 
     !!! tip "Uso"
 
-        Estilos globales que aseguran consistencia
+        Estilos globales que aseguran consistencia.
 
 
 === "The Cascade"
 
     !!! tip "Funcionamiento"
 
-        - **Estilos** declarados ^^posteriormente^^ tomarán prioridad
-        - **Archivos de estilos** declarados ^^posteriormente^^ tomarán prioridad
+        - **Estilos** declarados ^^posteriormente^^ tomarán prioridad.
+        - **Archivos de estilos** declarados ^^posteriormente^^ tomarán prioridad.
 
 === "Grouping Selectors"
 
     !!! tip "Uso"
 
-        Aplica **estilos compartidos** a diferentes elementos
+        Aplica **estilos compartidos** a diferentes elementos.
 
 === "ID & Class Selectors"
 
@@ -37,7 +37,7 @@ icon: lucide/hash
 
         |:lucide-hash: ID|:lucide-dot-square: Class|
         |---|---|
-        |Estiliza un solo elemento|Estiliza varios elementos a la vez|
+        |Estiliza un solo elemento.|Estiliza varios elementos a la vez.|
 
     ??? example "Ejemplos"
 

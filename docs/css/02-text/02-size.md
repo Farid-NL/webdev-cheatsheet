@@ -18,9 +18,9 @@ icon: lucide/ruler-dimension-line
 
     !!! tip "Guía"
 
-        - **No** justifiques.
-        - ^^Bloques largo de texto^^ deberían estar **alineados a la izquierda**.
-        - ^^Encabezados^^ pueden estar **centradas**.
+        - **No** se debe justificar el texto.
+        - Los ^^bloques largos de texto^^ deben estar **alineados a la izquierda**.
+        - Los ^^encabezados^^ pueden estar **centrados**.
 
 === "Line Height"
 
@@ -28,8 +28,8 @@ icon: lucide/ruler-dimension-line
 
     !!! tip "Guía"
 
-        - ^^Encabezados^^ deberían ser **menores a 1.5**
-        - ^^Texto regular^^ debería estar entre **1.5 a 2**
+        - Los ^^encabezados^^ deben ser **menores a 1.5**.
+        - El ^^texto regular^^ debe estar entre **1.5 y 2**.
 
 === "Letter Spacing"
 
@@ -46,10 +46,10 @@ icon: lucide/ruler-dimension-line
 
     !!! tip "Guía"
 
-        - ^^Encabezados^^ deberían ser **mayor a 60px**
-        - ^^Texto regular^^ debería estar entre **16px a 32px**
+        - Los ^^encabezados^^ deben ser **mayores a 60px**.
+        - El ^^texto regular^^ debe estar entre **16px y 32px**.
 
-    !!! tip "¿Cómo eligo el tamaño?"
+    !!! tip "¿Cómo se elige el tamaño?"
 
         Usando una **escala tipográfica**: Sistema estructurado de tamaños de fuente que aporta coherencia visual y agiliza las decisiones de diseño.
 

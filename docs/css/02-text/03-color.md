@@ -18,21 +18,21 @@ icon: lucide/palette
 
 === "Font Family"
 
-    Establece una lista de tipografías o tipos de tipofrafías a priorizar.
+    Establece una lista de tipografías o tipos de tipografías a priorizar.
 
     !!! tip "Guía"
 
-        - Utiliza Google Fonts para no depender de las fuentes instaladas
-          en el dispositivo de cada usuario
-        - Para ir sobre seguro, elige una fuente sans-serif popular
-        - Elige 1 o 2 fuentes para toda la aplicación, no más
+        - Se recomienda utilizar Google Fonts para no depender de las fuentes instaladas
+          en el dispositivo de cada usuario.
+        - Para ir sobre seguro, se sugiere elegir una fuente sans-serif popular.
+        - Se deben elegir 1 o 2 fuentes para toda la aplicación, no más.
 
 === "Color"
 
     !!! tip "Guía: Paleta de colores"
 
-        - Ten **al menos ^^2 colores^^** en tu paleta: Un **color primario** y un **gris**.
-        - Cada color debe tener **variantes ^^claras y oscuras^^**
+        - Se debe tener **al menos ^^2 colores^^** en la paleta: Un **color primario** y un **gris**.
+        - Cada color debe tener **variantes ^^claras y oscuras^^**.
 
         |:lucide-palette: Primario|:lucide-palette: Complementario|:lucide-palette: Gris|
         |---|---|---|
