@@ -18,12 +18,12 @@ icon: lucide/square-dashed
     |Div|Span|
     |---|---|
     |`#!html <div>`|`#!html <span>`|
-    |Agrupa bloques grandes de contenido HTML para aplicar estilos y posicionamiento|Envuelve texto para aplicarle estilos personalizados.|
-    |Elemento a nivel de bloque|Elemento a nivel en línea|
+    |Agrupa bloques grandes de contenido HTML para aplicar estilos y posicionamiento.|Envuelve texto para aplicarle estilos personalizados.|
+    |Elemento a nivel de bloque.|Elemento a nivel en línea.|
 
 === "Semantic HTML"
 
-    Es la utilización de etiquetas que describen el tipo de contenido que contienen,
+    Consiste en la utilización de etiquetas que describen el tipo de contenido que contienen,
     mejorando la accesibilidad y el SEO.
 
     |Etiqueta|Descripción|

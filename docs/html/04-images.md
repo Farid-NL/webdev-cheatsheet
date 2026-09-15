@@ -2,12 +2,12 @@
 icon: lucide/image
 ---
 
-# Imagenes y Etiquetas Autocerradas
+# Imágenes y Etiquetas Autocerradas
 
 ![Tarjeta de Resumen HTML 4](../assets/images/html/04-images/00-summary.svg)
 
 !!! info "Etiquetas de autocierre"
-    Etiquetas que no contienen texto de cierre explicito como `#!html <hr>` o `#!html <hr />`.
+    Son etiquetas que no contienen texto de cierre explícito, como `#!html <hr>` o `#!html <hr />`.
 
 === "Images"
 
@@ -20,7 +20,7 @@ icon: lucide/image
 
 === "SVGs"
 
-    Se pueden usar directamente mediate código vectorial o dentro de etiquetas `<img>`:
+    Se pueden utilizar directamente mediante código vectorial o dentro de etiquetas `<img>`:
 
     ```html
     <!-- SVG Inline -->

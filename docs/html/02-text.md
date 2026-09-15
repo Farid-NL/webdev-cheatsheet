@@ -37,11 +37,11 @@ icon: lucide/type
 
     !!! tip "Tip"
 
-        También sirven para agrupar elementos HTML relacionados:
+        También se utilizan para agrupar elementos HTML relacionados:
 
-        - Elementos de navegación (Navbar & Sidebar)
-        - Botones
-        - Iconos y enlaces de redes sociales
+        - Elementos de navegación (Navbar & Sidebar).
+        - Botones.
+        - Iconos y enlaces de redes sociales.
 
     === "Ordered List"
         ```html
@@ -77,10 +77,10 @@ icon: lucide/type
 
 === "Comments"
 
-    Pueden servir como:
+    Se pueden utilizar como:
 
-    - Recordatorios para el desarrollador
-    - Desactivar temporalmente código HTML.
+    - Recordatorios para el desarrollador.
+    - Desactivación temporal de código HTML.
     - Documentación de código HTML.
 
     ```html title="Comentario"

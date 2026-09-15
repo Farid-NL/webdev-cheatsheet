@@ -26,7 +26,7 @@ Recopilan y envían datos proporcionados por el usuario a un servidor web para s
 
 === "Form Tag"
 
-    Actuá como un contenedor para los elementos que permiten a los usuarios ingresar diferentes tipos de datos.
+    Actúa como un contenedor para los elementos que permiten ingresar diferentes tipos de datos.
 
     ```html
             <!-- (1)! -->                 <!-- (2)! -->
@@ -58,8 +58,8 @@ Recopilan y envían datos proporcionados por el usuario a un servidor web para s
 
 === "Label"
 
-    Proporciona una descripción para los elementos del formulario, además, mejora la
-    accesibilidad y la usabilidad de este.
+    Proporciona una descripción para los elementos del formulario, además de mejorar su
+    accesibilidad y usabilidad.
 
     ```html hl_lines="1"
     <label for="journal-title">Journal Title</label> <!-- (1)! -->
@@ -94,7 +94,7 @@ Recopilan y envían datos proporcionados por el usuario a un servidor web para s
 
     === "Checkbox"
 
-        Permite al usuario seleccionar una o varias opciones de un conjunto de opciones.
+        Permite seleccionar una o varias opciones de un conjunto de opciones.
 
         ```html
         <input id="topping-1" type="checkbox" name="pinapple"> <!-- (1)! -->
@@ -115,7 +115,7 @@ Recopilan y envían datos proporcionados por el usuario a un servidor web para s
 
     === "Radio"
 
-        Permite al usuario seleccionar una opción de un conjunto de opciones.
+        Permite seleccionar una opción de un conjunto de opciones.
 
         !!! warning "Atributo `name`"
 
@@ -147,7 +147,7 @@ Recopilan y envían datos proporcionados por el usuario a un servidor web para s
 
 === "Text Area"
 
-    Utilizado para la entrada de texto de varias líneas utilizado para comentarios
+    Se utiliza para la entrada de texto de varias líneas, como comentarios
     y mensajes más largos.
 
     ```html
@@ -158,7 +158,7 @@ Recopilan y envían datos proporcionados por el usuario a un servidor web para s
 
 === "Dropdown"
 
-    Permite al usuario seleccionar una opción de una lista de opciones predefinidas.
+    Permite seleccionar una opción de una lista de opciones predefinidas.
 
     !!! note "Nota"
 
@@ -188,7 +188,7 @@ Recopilan y envían datos proporcionados por el usuario a un servidor web para s
 
 === "Buttons"
 
-    Dispara acciones, como enviar los datos del formulario al servidor
+    Desencadena acciones, como enviar los datos del formulario al servidor
     o restablecer los campos del formulario a sus valores predeterminados.
 
     ??? info "¿Hipervínculo como botón?"
@@ -208,8 +208,8 @@ Recopilan y envían datos proporcionados por el usuario a un servidor web para s
 
 === "Validation"
 
-    Proceso de revisión de los datos ingresados por el usuario para garantizar
-    que cumplan con ciertos criterios antes de enviarlos al servidor.
+    Proceso de revisión de los datos ingresados para garantizar
+    que cumplan con ciertos criterios antes de ser enviados al servidor.
 
     **Validación integrada**
 

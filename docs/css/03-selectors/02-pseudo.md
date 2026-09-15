@@ -10,24 +10,24 @@ icon: lucide/mouse-pointer-click
 
     === "Estado"
 
-        Estilizado dinámico basado en la interacción del usuario
+        Estilizado dinámico basado en la interacción del usuario.
 
         |Pseudo-clase|Descripción|
         |---|---|
-        |`:link`|:lucide-link-2: `#!html <a>` Link que ^^**no** ha sido visitado^^|
-        |`:visited`|:lucide-link-2: `#!html <a>` Link que ^^**si** ha sido visitado^^|
-        |`:hover`|:lucide-mouse-pointer-square-dashed: `#!html <...>` Cuando el ^^cursor se encuentra encima^^ del elemento|
-        |`:active`|:lucide-mouse-pointer-click: `#!html <...>` Cuando el elemento ^^está siendo clickeado^^{ title="No se ha soltado el botón izquiedo del ratón" }|
+        |`:link`|:lucide-link-2: `#!html <a>` Link que ^^**no** ha sido visitado^^.|
+        |`:visited`|:lucide-link-2: `#!html <a>` Link que ^^**sí** ha sido visitado^^.|
+        |`:hover`|:lucide-mouse-pointer-square-dashed: `#!html <...>` Cuando el ^^cursor se encuentra encima^^ del elemento.|
+        |`:active`|:lucide-mouse-pointer-click: `#!html <...>` Cuando el elemento ^^está siendo clickeado^^{ title="No se ha soltado el botón izquierdo del ratón." }.|
 
     === "Condición"
 
-        Estilizado basado en la posición de los elementos in relación a otros.
+        Estilizado basado en la posición de los elementos en relación a otros.
 
         |Pseudo-clase|Descripción|
         |---|---|
-        |`:first-child`|Apunta al ^^primer^^ hijo de un elemento|
-        |`:last-child`|Apunta al ^^último^^ hijo de un elemento|
-        |`:nth-child()`|Apunta a un ^^hijo en particular^^{ title="<code>3</code>: Apuntaría al 3er hijo" } o a ^^cada hijo^^{ title="<code>2n + 1</code>: Apuntaria a cada 2do elemento más 1" } de un elemento|
+        |`:first-child`|Apunta al ^^primer^^ hijo de un elemento.|
+        |`:last-child`|Apunta al ^^último^^ hijo de un elemento.|
+        |`:nth-child()`|Apunta a un ^^hijo en particular^^{ title="<code>3</code>: Apuntaría al 3er hijo." } o a ^^cada hijo^^{ title="<code>2n + 1</code>: Apuntaría a cada 2do elemento más 1." } de un elemento.|
 
 === "Combinator"
 
@@ -57,7 +57,7 @@ icon: lucide/mouse-pointer-click
 
     === ":material-tilde: Hermano general"
 
-        Selecciona **multiples elementos** adyacentes a otro, estando ^^todos anidados^^ dentro de un mismo elemento padre.
+        Selecciona **múltiples elementos** adyacentes a otro, estando ^^todos anidados^^ dentro de un mismo elemento padre.
 
         ![General Sibling Selector Example](../../assets/images/css/03-selectors/02-pseudo/02-combinator-general-sibling.svg)
 

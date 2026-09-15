@@ -23,22 +23,22 @@ icon: lucide/table-2
 
     |Etiqueta|Descripción|
     |---|---|
-    |`#!html <table>`|Contenedor principal de la tabla|
-    |`#!html <thead>`|Define el encabezado de la tabla|
-    |`#!html <tbody>`|Define el cuerpo de la tabla|
-    |`#!html <tfoot>`|Define el pie de la tabla|
-    |`#!html <tr>`|Define una fila de la tabla|
-    |`#!html <th>`|Define una celda de encabezado|
-    |`#!html <td>`|Define una celda de datos|
+    |`#!html <table>`|Contenedor principal de la tabla.|
+    |`#!html <thead>`|Define el encabezado de la tabla.|
+    |`#!html <tbody>`|Define el cuerpo de la tabla.|
+    |`#!html <tfoot>`|Define el pie de la tabla.|
+    |`#!html <tr>`|Define una fila de la tabla.|
+    |`#!html <th>`|Define una celda de encabezado.|
+    |`#!html <td>`|Define una celda de datos.|
 
 === "Scientific Elements"
 
     |Etiqueta|Descripción|
     |---|---|
-    |`#!html <sub>`|Texto en subíndice|
-    |`#!html <sup>`|Texto en superíndice|
-    |`#!html <figure>`|Indica que una imagen tiene una leyenda asociada|
-    |`#!html <figcaption>`|Leyenda de la imagen|
+    |`#!html <sub>`|Texto en subíndice.|
+    |`#!html <sup>`|Texto en superíndice.|
+    |`#!html <figure>`|Indica que una imagen tiene una leyenda asociada.|
+    |`#!html <figcaption>`|Leyenda de la imagen.|
 
     ??? example "Ejemplos"
 

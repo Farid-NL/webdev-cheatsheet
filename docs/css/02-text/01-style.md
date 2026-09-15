@@ -8,14 +8,14 @@ icon: lucide/italic
 
 === "Font Weight"
 
-    Establece el grosor de los caracteres de texto
+    Establece el grosor de los caracteres de texto.
 
     !!! tip "Guía"
 
-        - ^^Encabezados^^ deberían estar entre **500 a 900**
-        - ^^Otros textos^^ deberían estar entre **300 a 400**
+        - Los ^^encabezados^^ deben estar entre **500 a 900**.
+        - ^^Otros textos^^ deben estar entre **300 a 400**.
 
-    _Valores comúnes_
+    _Valores comunes_
 
     |Valor|Descripción|
     |---|---|
@@ -25,11 +25,11 @@ icon: lucide/italic
 
 === "Font Style"
 
-    Establece el estilo de la fuente
+    Establece el estilo de la fuente.
 
     !!! tip "Guía"
 
-        - Prefiere utilizar _font weight_ y color
+        - Se prefiere utilizar _font weight_ y color.
         - Puede ser usado para llamar la atención.
           ```html
           <h1>Cut your publishing time <span style="font-style: italic;">in half</span></h1>
@@ -37,21 +37,21 @@ icon: lucide/italic
 
 === "List Style"
 
-    Establece el estilo de la lista
+    Establece el estilo de la lista.
 
     !!! tip "Guía"
 
-        **Siempre** remueve el estilo de las listas cuando sean
-        usadas con [propositos estructurales](../../html/02-text.md#__tabbed_2_2).
+        **Siempre** se debe remover el estilo de las listas cuando sean
+        usadas con [propósitos estructurales](../../html/02-text.md#__tabbed_2_2).
 
 === "Text Decoration"
 
-    Establece las lineas decorativas del texto
+    Establece las líneas decorativas del texto.
 
     !!! tip "Guía"
 
-        - **Siempre** remueve el subrayado de hipervínculos (`#!html <a href="...">`).
-        - Utiliza la decoración de texto con **poca frecuencia**.
+        - **Siempre** se debe remover el subrayado de los hipervínculos (`#!html <a href="...">`).
+        - Se recomienda utilizar la decoración de texto con **poca frecuencia**.
 
     ```css
     ... {
@@ -70,7 +70,7 @@ icon: lucide/italic
 
     !!! tip "Guía"
 
-        Mantén el uso de mayúsculas en cada oración.
+        Se recomienda mantener el uso de mayúsculas en cada oración.
 
         ```txt
         Sentence Case

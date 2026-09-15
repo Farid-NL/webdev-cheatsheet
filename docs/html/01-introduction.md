@@ -25,7 +25,7 @@ icon: lucide/book-open
 
     - Usar siempre minúsculas (**lower case**).
     - Usar guiones (**hyphen**) para separar palabras.
-    - Extensión obligatoria: `.html`
+    - Extensión obligatoria: `.html`.
 
     *Ejemplo:* `first-page.html`
 
@@ -43,8 +43,8 @@ icon: lucide/book-open
     </html>
     ```
 
-    1.  Información no visible en la página
-    2.  Contenido mostrado en la página
+    1.  Información no visible en la página.
+    2.  Contenido mostrado en la página.
 
 === "Nesting & Indenting"
 

@@ -41,9 +41,9 @@ icon: lucide/asterisk
 
         Se utiliza principalmente para ^^reiniciar^^{ title="Eliminar márgenes y rellenos predeterminados de los navegadores para unificar el diseño" } los estilos base.
 
-    |Herencia & Etiqueta`#!html <body>`|Selector universal (`*`)|
+    |Herencia & Etiqueta `#!html <body>`|Selector universal (`*`)|
     |---|---|
-    |Aplica para propiedades de texto.|Aplica en todas la propiedades.|
+    |Aplica para propiedades de texto.|Aplica en todas las propiedades.|
     |Usado para establecer ^^propiedades de texto^^ por defecto de la aplicación.|Usado para unificar el diseño general mediante ^^propiedades del _box model_^^.|
 
 === "Pseudo-elements"
