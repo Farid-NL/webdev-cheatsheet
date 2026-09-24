@@ -32,6 +32,10 @@ nav = [
       { "Pseudo y Especificidad" = "css/03-selectors/02-pseudo.md" },
       { "Universal y Herencia" = "css/03-selectors/03-universal.md" },
     ] },
+    { "Box Model" = [
+      { "Box model" = "css/04-box-model/01-box-model.md" },
+      { "Box sizing" = "css/04-box-model/02-box-sizing.md" },
+    ] },
   ] },
 ]
 
