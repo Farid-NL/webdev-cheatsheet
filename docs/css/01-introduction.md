@@ -4,7 +4,7 @@ icon: lucide/book-open
 
 # Introducción
 
-CSS trata a cada elemento HTML como si estuviera dentro de una caja invisible.
+CSS trata a cada elemento HTML como si estuviera dentro de una [caja invisible](./04-box-model/01-box-model.md).
 
 ??? tip "Block & Inline Elements"
 

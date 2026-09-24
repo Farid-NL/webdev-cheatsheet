@@ -41,4 +41,4 @@ icon: lucide/hash
 
     ??? example "Ejemplos"
 
-        <!-- Poner pagina 141 y 142 -->
+        <!-- Poner página 141 y 142 -->

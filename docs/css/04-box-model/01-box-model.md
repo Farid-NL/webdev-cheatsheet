@@ -145,7 +145,7 @@ Todos los elementos HTML son tratados como ^^cajas rectangulares con **propiedad
 
         *[botones contorneados]: En tal caso el botón relleno tendría que tener el mismo borde.
 
-    Puedes establecer el valor de esta propiedad de 2 formas:
+    Puedes establecer el valor de esta propiedad de 3 formas:
 
     === "Longhand"
 
@@ -167,9 +167,9 @@ Todos los elementos HTML son tratados como ^^cajas rectangulares con **propiedad
 
 === "Border radius"
 
-    Define el valor de redondeamiento para el borde
+    Define el valor de redondeo para el borde.
 
-    *[valor de redondeamiento]: px, em, rem, %
+    *[valor de redondeo]: px, em, rem, %
 
     !!! tip "Guía"
 

@@ -14,7 +14,7 @@ icon: lucide/palette
     |-----|----------|---------|-------|-------|
     |Detalles adicionales al final de los trazos|Trazos rectos al final y aspecto más limpio|Caracteres con el mismo ancho|Trazos continuos o imitación de escritura a mano|Llamativa y con carácter artístico|
     |![Typeface Serif](../../assets/images/css/02-text/03-color/01-typeface-serif.svg)|![Typeface Sans-Serif](../../assets/images/css/02-text/03-color/01-typeface-sans-serif.svg)|![Typeface Monospace](../../assets/images/css/02-text/03-color/01-typeface-monospace.svg)|![Typeface Cursive](../../assets/images/css/02-text/03-color/01-typeface-cursive.svg)|![Typeface Display](../../assets/images/css/02-text/03-color/01-typeface-display.svg)|
-    |^^Clásico^^: **Lujo y Confianza**|^^Limpio y moderno^^: **Simplicidad y Claridad**|^^Técnico^^: **Exactitud y Precisión**|^^Personal e Intimo^^: **Conexión emocional**|^^Creatividad^^: **Diversión y Transgresión**|
+    |^^Clásico^^: **Lujo y Confianza**|^^Limpio y moderno^^: **Simplicidad y Claridad**|^^Técnico^^: **Exactitud y Precisión**|^^Personal e Íntimo^^: **Conexión emocional**|^^Creatividad^^: **Diversión y Transgresión**|
 
 === "Font Family"
 

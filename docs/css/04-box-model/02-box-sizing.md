@@ -42,7 +42,7 @@ icon: lucide/square-dimensions
 
     Valores permitidos: `block`, `inline`, **`inline-block`**, `flex` y `grid`.
 
-    ??? info "¿Cómo aplica el box model en elementos block e inline?"
+    ??? info "¿Cómo se aplica el box model en elementos block e inline?"
 
         |Block|Inline|
         |---|---|
@@ -109,6 +109,6 @@ icon: lucide/square-dimensions
 
         !!! tip "Guía"
 
-            Prefiere usar algún tipo de Normalización sobre reset.
+            Prefiere usar algún tipo de normalización sobre el reset.
 
             Ejemplo popular: [Modern Normalize](https://github.com/sindresorhus/modern-normalize)

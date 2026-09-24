@@ -43,7 +43,7 @@ icon: lucide/table-2
     ??? example "Ejemplos"
 
         ```html title="Subscript & Superscript"
-        <p>Formula química del agua: H<sub>2</sub>O</p>
+        <p>Fórmula química del agua: H<sub>2</sub>O</p>
         <p>Teoría de la Relatividad Especial: E = mc<sup>2</sup></p>
         ```
 

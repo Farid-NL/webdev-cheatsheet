@@ -14,7 +14,7 @@ icon: lucide/ruler-dimension-line
 
         |Bloque|En línea|
         |---|---|
-        |**Si** hay espacio para que el ^^texto pueda moverse^^<br>![Text Align - Block vs Inline](../../assets/images/css/02-text/02-size/01-text-align-block.svg)|**No** hay espacio para que el ^^texto pueda moverse^^<br>![Text Align - Block vs Inline](../../assets/images/css/02-text/02-size/01-text-align-inline.svg)|
+        |**Sí** hay espacio para que el ^^texto pueda moverse^^<br>![Text Align - Block vs Inline](../../assets/images/css/02-text/02-size/01-text-align-block.svg)|**No** hay espacio para que el ^^texto pueda moverse^^<br>![Text Align - Block vs Inline](../../assets/images/css/02-text/02-size/01-text-align-inline.svg)|
 
     !!! tip "Guía"
 
@@ -37,7 +37,7 @@ icon: lucide/ruler-dimension-line
 
     !!! tip "Guía"
 
-        Se suele aplicar un **pequeño valor negativo** en pixeles _(i.e `-3.6px`)_
+        Se suele aplicar un **pequeño valor negativo** en píxeles _(i.e `-3.6px`)_
         a los ^^encabezados^^ para mejorar la legibilidad.
 
 === "Font Size"
