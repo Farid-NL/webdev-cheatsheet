@@ -22,7 +22,7 @@ icon: lucide/asterisk
 
     !!! tip "Guía"
 
-        - Los selectores específicos ^^prevalecen^^{ title="La herencia tiene una especificidad de 0, por lo que cualquier selector directo la sobrescribe" } sobre las propiedades heredadas.
+        - Los selectores específicos ^^prevalecen^:material-information-outline:^^^{ title="La herencia tiene una especificidad de 0, por lo que cualquier selector directo la sobrescribe." } sobre las propiedades heredadas.
         - Las propiedades de fuente globales se definen en el elemento `#!html <body>`.
 
 === "Inheritance & text-align"
@@ -30,8 +30,8 @@ icon: lucide/asterisk
     !!! tip "Guía"
 
         - La propiedad `text-align` aplicada a un contenedor de bloque afecta a su contenido de dos formas:
-            - **Elementos de línea:** Los elementos ^^inline^^{ title="No ocupan todo el ancho, así que el padre puede repartir el espacio vacío a sus lados para centrarlos" } se centran directamente dentro del contenedor.
-            - **Elementos de bloque:** Los elementos ^^block^^{ title="Ocupan todo el ancho del contenedor, por lo que heredan la propiedad para alinear su texto interno" } alinean el texto que contienen en su interior.
+            - **Elementos de línea:** Los elementos _inline^:material-information-outline:^_{ title="No ocupan todo el ancho, así que el padre puede repartir el espacio vacío a sus lados para centrarlos" } se centran directamente dentro del contenedor.
+            - **Elementos de bloque:** Los elementos _block^:material-information-outline:^_{ title="Ocupan todo el ancho del contenedor, por lo que heredan la propiedad para alinear su texto interno" } alinean el texto que contienen en su interior.
 
 === "The Universal Selector"
 
@@ -39,7 +39,7 @@ icon: lucide/asterisk
 
     !!! tip "Guía"
 
-        Se utiliza principalmente para ^^reiniciar^^{ title="Eliminar márgenes y rellenos predeterminados de los navegadores para unificar el diseño" } los estilos base.
+        Se utiliza principalmente para _reiniciar^:material-information-outline:^_{ title="Eliminar márgenes y rellenos predeterminados de los navegadores para unificar el diseño" } los estilos base.
 
     |Herencia & Etiqueta `#!html <body>`|Selector universal (`*`)|
     |---|---|

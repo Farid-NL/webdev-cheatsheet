@@ -141,9 +141,7 @@ Todos los elementos HTML son tratados como ^^cajas rectangulares con **propiedad
 
         - Agrupa contenido relacionado (i.e. delimitando un componente de tarjeta)
         - Divide secciones
-        - Usado para crear botones contorneados
-
-        *[botones contorneados]: En tal caso el botón relleno tendría que tener el mismo borde.
+        - Usado para crear _botones contorneados^:material-information-outline:^_{ title="En tal caso el botón relleno tendría que tener el mismo borde." }
 
     Puedes establecer el valor de esta propiedad de 3 formas:
 
@@ -167,9 +165,7 @@ Todos los elementos HTML son tratados como ^^cajas rectangulares con **propiedad
 
 === "Border radius"
 
-    Define el valor de redondeo para el borde.
-
-    *[valor de redondeo]: px, em, rem, %
+    Define el _valor de redondeo^:material-information-outline:^_{ title="px, em, rem, %" } para el borde.
 
     !!! tip "Guía"
 

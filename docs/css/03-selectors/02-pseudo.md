@@ -17,7 +17,7 @@ icon: lucide/mouse-pointer-click
         |`:link`|:lucide-link-2: `#!html <a>` Link que ^^**no** ha sido visitado^^.|
         |`:visited`|:lucide-link-2: `#!html <a>` Link que ^^**sí** ha sido visitado^^.|
         |`:hover`|:lucide-mouse-pointer-square-dashed: `#!html <...>` Cuando el ^^cursor se encuentra encima^^ del elemento.|
-        |`:active`|:lucide-mouse-pointer-click: `#!html <...>` Cuando el elemento ^^está siendo clickeado^^{ title="No se ha soltado el botón izquierdo del ratón." }.|
+        |`:active`|:lucide-mouse-pointer-click: `#!html <...>` Cuando el elemento ^^está siendo clickeado^:material-information-outline:^^^{ title="No se ha soltado el botón izquierdo del ratón." }.|
 
     === "Condición"
 
@@ -27,7 +27,7 @@ icon: lucide/mouse-pointer-click
         |---|---|
         |`:first-child`|Apunta al ^^primer^^ hijo de un elemento.|
         |`:last-child`|Apunta al ^^último^^ hijo de un elemento.|
-        |`:nth-child()`|Apunta a un ^^hijo en particular^^{ title="<code>3</code>: Apuntaría al 3er hijo." } o a ^^cada hijo^^{ title="<code>2n + 1</code>: Apuntaría a cada 2do elemento más 1." } de un elemento.|
+        |`:nth-child()`|Apunta a un ^^hijo en particular^:material-information-outline:^^^{ title="<code>3</code>: Apuntaría al 3er hijo." } o a ^^cada hijo^:material-information-outline:^^^{ title="<code>2n + 1</code>: Apuntaría a cada 2do elemento más 1." } de un elemento.|
 
 === "Combinator"
 
@@ -35,17 +35,17 @@ icon: lucide/mouse-pointer-click
 
     !!! tip "Consejo"
 
-        El único realmente importante y relativamente más utilizado es el ^^selector de descendientes^^{ title="Descendant Selector" }.
+        El único realmente importante y relativamente más utilizado es el _selector de descendientes^:material-information-outline:^_{ title="Descendant Selector" }.
 
     === ":material-keyboard-space: Descendiente"
 
-        Selecciona todos ^^los elementos hijos^^{ title="Sin importar el nivel de anidamiento" }.
+        Selecciona todos ^^los elementos hijos^:material-information-outline:^^^{ title="Sin importar el nivel de anidamiento" }.
 
         ![Descendant Selector Example](../../assets/images/css/03-selectors/02-pseudo/02-combinator-descendant.svg)
 
     === ":material-chevron-right: Descendiente directo"
 
-        Selecciona todos ^^los elementos hijos **directos**^^{ title="Solo 1 nivel de anidamiento" }.
+        Selecciona todos ^^los elementos hijos **directos**^:material-information-outline:^^^{ title="Solo 1 nivel de anidamiento" }.
 
         ![Direct Descendant Selector Example](../../assets/images/css/03-selectors/02-pseudo/02-combinator-direct-descendant.svg)
 
