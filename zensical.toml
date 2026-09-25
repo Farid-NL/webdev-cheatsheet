@@ -35,6 +35,7 @@ nav = [
     { "Box Model" = [
       { "Box model" = "css/04-box-model/01-box-model.md" },
       { "Box sizing" = "css/04-box-model/02-box-sizing.md" },
+      { "Diseño adaptativo" = "css/04-box-model/03-responsive-design.md" },
     ] },
   ] },
 ]
