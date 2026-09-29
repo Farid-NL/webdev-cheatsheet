@@ -9,7 +9,7 @@ Este espacio está diseñado para servir como un apunte personal y una herramien
 Actualmente, la documentación cubre los fundamentos estructurales y visuales de la web:
 
 - **[HTML](html/01-introduction.md):** Etiquetas, semántica, enlaces, imágenes, formularios y contenedores.
-- **[CSS](css/01-introduction.md):** Texto, Selectores, Box Model
+- **[CSS](css/01-introduction.md):** Texto, Selectores, Box Model.
 
 ## :lucide-milestone: Próximamente
 
