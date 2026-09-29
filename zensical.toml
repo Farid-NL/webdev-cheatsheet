@@ -40,6 +40,9 @@ nav = [
     { "Unidades" = [
       { "Unidades" = "css/05-units/00-units.md" }
     ] },
+    { "Funciones" = [
+      { "Funciones" = "css/06-functions/00-functions.md" }
+    ] },
   ] },
 ]
 
