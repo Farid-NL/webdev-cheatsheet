@@ -20,16 +20,16 @@ icon: lucide/ruler
 
     Unidad que siempre es relativa a algún otro valor: por lo general el elemento padre.
 
-    ??? info "Relativa al padre vs Relativa al si mismo"
+    ??? info "Relativa al padre vs Relativa a sí mismo"
 
         ![Percentage](../../assets/images/css/05-units/01-percentage.svg)
 
     !!! tip "Guía de uso"
 
-        Usado par que la página web sea totalmente adaptable (responsive).
+        Usado para que la página web sea totalmente adaptable (responsive).
 
         - **Contenedores principales:** Junto con `max-width`.
-        - **Imágenes independiente:** Junto con `max-width`.
+        - **Imágenes independientes:** Junto con `max-width`.
         - **Imágenes dentro de un _contenedor grid o flex_:** Al 100% para que ocupen toda la celda.
         - **Ancho de un botón:** Al 100% para que llene su contenedor.
         - **Esquinas totalmente redondeadas**
@@ -39,19 +39,19 @@ icon: lucide/ruler
         |&nbsp;|`max-width`|< 100%|100%|50%|
         |---|:-:|:-:|:-:|:-:|
         |**Contenedor principal**|✅|✅|||
-        |**Imágen independiente**|✅||✅||
-        |**Imágen en grid**|||✅||
+        |**Imagen independiente**|✅||✅||
+        |**Imagen en grid**|||✅||
         |**Botón de ancho completo**|||✅||
         |**Esquinas redondas**||||✅|
 
 === "`rem` & `em`"
 
     - REM: Unidad relativa al **tamaño de la fuente** del ^^elemento raíz `#!html <html>`^^.
-    - EM: Unidad relativa al **tamaño de la fuente** del elemento padre o de si mismo.
+    - EM: Unidad relativa al **tamaño de la fuente** del elemento padre o de sí mismo.
 
     !!! tip "Guía de uso"
 
-        - **Rem:** Comunmente usados en texto, margenes y padding.
+        - **Rem:** Comúnmente usados en texto, márgenes y padding.
         - **Em:** Puede ser completamente ignorado o usado en casos específicos como padding en botones.
 
     ![EMS](../../assets/images/css/05-units/02-ems.svg)

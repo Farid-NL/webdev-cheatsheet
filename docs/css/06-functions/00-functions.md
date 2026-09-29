@@ -7,11 +7,11 @@ icon: lucide/parentheses
 
 === "Variables"
 
-    Nos permite almacenar valores. Facilita el mantenimiento y realizar cambios globales con mayor facilidad.
+    Nos permiten almacenar valores. Facilitan el mantenimiento y realizar cambios globales con mayor facilidad.
 
     !!! tip "Guía de uso"
 
-        Son declarados en el la pseudo-clase `:root`
+        Son declaradas en la pseudo-clase `:root`
 
         ```css
         :root {
@@ -19,7 +19,7 @@ icon: lucide/parentheses
         }
         ```
 
-        Y utilizados por medio de la función `var()`
+        Y utilizadas por medio de la función `var()`
 
         ```css
         :root {
