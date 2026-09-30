@@ -24,7 +24,7 @@ Recopilan y envían datos proporcionados por el usuario a un servidor web para s
        username=John_Doe
        ```
 
-=== "Form Tag"
+=== "Form tag"
 
     Actúa como un contenedor para los elementos que permiten ingresar diferentes tipos de datos.
 
@@ -145,7 +145,7 @@ Recopilan y envían datos proporcionados por el usuario a un servidor web para s
            size=l
            ```
 
-=== "Text Area"
+=== "Text area"
 
     Se utiliza para la entrada de texto de varias líneas, como comentarios
     y mensajes más largos.

@@ -78,7 +78,7 @@ icon: lucide/square-dimensions
 
         </figure>
 
-=== "CSS Reset"
+=== "CSS reset"
 
     === "Reset"
 

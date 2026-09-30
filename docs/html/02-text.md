@@ -33,7 +33,7 @@ icon: lucide/type
     <p>Paragraph Text</p>
     ```
 
-=== "Lists & Nested Lists"
+=== "Lists & nested lists"
 
     !!! tip "Tip"
 
@@ -43,7 +43,7 @@ icon: lucide/type
         - Botones.
         - Iconos y enlaces de redes sociales.
 
-    === "Ordered List"
+    === "Ordered list"
         ```html
         <ol>
             <li>Pineapple</li>
@@ -52,7 +52,7 @@ icon: lucide/type
         </ol>
         ```
 
-    === "Unordered List"
+    === "Unordered list"
         ```html
         <ul>
             <li>USD</li>
@@ -61,7 +61,7 @@ icon: lucide/type
         </ul>
         ```
 
-    === "Nested Lists"
+    === "Nested lists"
         ```html
         <ol>
             <li>User Accounts

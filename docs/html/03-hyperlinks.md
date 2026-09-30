@@ -6,7 +6,7 @@ icon: lucide/link
 
 ![Tarjeta de Resumen HTML 3](../assets/images/html/03-hyperlink/00-summary.svg)
 
-=== "Anchor Tags & Attributes"
+=== "Anchor tags & attributes"
 
     Los atributos proporcionan información adicional a las etiquetas mediante pares de `nombre="valor"`.
 
@@ -17,7 +17,7 @@ icon: lucide/link
     - **Nombre del atributo:** `href`
     - **Valor del atributo:** `register.html`
 
-=== "Absolute vs Relative URLs"
+=== "Absolute vs relative URLs"
 
     - **URL Absoluta:** Dirección completa en la web.
         ```html
@@ -28,7 +28,7 @@ icon: lucide/link
         <a href="register.html">Get Started</a>
         ```
 
-=== "The ID Attribute"
+=== "The ID attribute"
 
     Se utiliza para asignar un identificador único que permite vincular o dar estilo a un elemento.
 

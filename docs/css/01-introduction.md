@@ -13,7 +13,7 @@ CSS trata a cada elemento HTML como si estuviera dentro de una [caja invisible](
 
 ![Tarjeta de Resumen CSS 1](../assets/images/css/01-introduction/00-summary.svg)
 
-=== "CSS Properties"
+=== "CSS properties"
 
     |:lucide-type: Contenido<br>_Dentro de la caja_|:lucide-square-dashed: Box<br>_La caja_|:lucide-layout-freeform: Disposición<br>_Donde va la caja_|
     |:---:|:---:|:---:|

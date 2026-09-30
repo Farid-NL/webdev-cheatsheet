@@ -6,7 +6,7 @@ icon: lucide/hash
 
 ![Tarjeta de Resumen CSS 3-1](../../assets/images/css/03-selectors/01-basics/00-summary.svg)
 
-=== "Type Selector"
+=== "Type selector"
 
     Selecciona elementos basados en el nombre de su [etiqueta](../../html/01-introduction.md#__tabbed_1_1).
 
@@ -15,20 +15,20 @@ icon: lucide/hash
         Estilos globales que aseguran consistencia.
 
 
-=== "The Cascade"
+=== "The cascade"
 
     !!! tip "Funcionamiento"
 
         - **Estilos** declarados ^^posteriormente^^ tomarán prioridad.
         - **Archivos de estilos** declarados ^^posteriormente^^ tomarán prioridad.
 
-=== "Grouping Selectors"
+=== "Grouping selectors"
 
     !!! tip "Uso"
 
         Aplica **estilos compartidos** a diferentes elementos.
 
-=== "ID & Class Selectors"
+=== "ID & class selectors"
 
     !!! tip "Guía"
 

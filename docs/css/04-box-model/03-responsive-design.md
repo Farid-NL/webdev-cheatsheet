@@ -54,7 +54,7 @@ icon: lucide/monitor-smartphone
             }
             ```
 
-=== "Max/Min width"
+=== "Max/min width"
 
     !!! success "Más utilizados debido al papel que desempeñan en la creación de diseños adaptativos."
 
@@ -160,7 +160,7 @@ icon: lucide/monitor-smartphone
 
                 ![Min-width en elementos inline](../../assets/images/css/04-box-model/03-responsive-design/02-min-width-inline.svg)
 
-=== "Max/Min height"
+=== "Max/min height"
 
     !!! warning "Menos utilizado que max/min width."
 

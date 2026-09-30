@@ -31,7 +31,7 @@ icon: lucide/table-2
     |`#!html <th>`|Define una celda de encabezado.|
     |`#!html <td>`|Define una celda de datos.|
 
-=== "Scientific Elements"
+=== "Scientific elements"
 
     |Etiqueta|Descripción|
     |---|---|

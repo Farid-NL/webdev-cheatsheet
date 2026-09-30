@@ -33,7 +33,7 @@ icon: lucide/asterisk
             - **Elementos de línea:** Los elementos _inline^:material-information-outline:^_{ title="No ocupan todo el ancho, así que el padre puede repartir el espacio vacío a sus lados para centrarlos" } se centran directamente dentro del contenedor.
             - **Elementos de bloque:** Los elementos _block^:material-information-outline:^_{ title="Ocupan todo el ancho del contenedor, por lo que heredan la propiedad para alinear su texto interno" } alinean el texto que contienen en su interior.
 
-=== "The Universal Selector"
+=== "The universal selector"
 
     Aplica estilos a **todos** los elementos.
 

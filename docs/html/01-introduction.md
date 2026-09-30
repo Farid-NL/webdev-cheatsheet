@@ -19,7 +19,7 @@ icon: lucide/book-open
     - **Etiqueta de cierre:** `</p>`
     - **Elemento:** Todo el conjunto combinado.
 
-=== "HTML Files"
+=== "HTML files"
 
     Convenciones para nombrar archivos HTML:
 
@@ -29,7 +29,7 @@ icon: lucide/book-open
 
     *Ejemplo:* `first-page.html`
 
-=== "Boilerplate Structure"
+=== "Boilerplate structure"
 
     ```html title="Estructura básica de un archivo HTML"
     <!DOCTYPE html>
@@ -46,7 +46,7 @@ icon: lucide/book-open
     1.  Información no visible en la página.
     2.  Contenido mostrado en la página.
 
-=== "Nesting & Indenting"
+=== "Nesting & indenting"
 
     - **Nesting (Anidación):** Los elementos dentro de otros se consideran elementos **hijos** (`Child`), mientras que el contenedor es el **padre** (`Parent`).
     - **Indenting (Indentación):** Los elementos hijos deben indentarse (normalmente 2 o 4 espacios) para mejorar la legibilidad.

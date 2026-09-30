@@ -6,14 +6,14 @@ icon: lucide/square-dashed
 
 ![Tarjeta de Resumen HTML 6](../assets/images/html/06-containers/00-summary.svg)
 
-=== "Block & Inline Elements"
+=== "Block & inline elements"
 
     Los elementos HTML se dividen en dos categorías principales: **elementos de bloque** y **elementos en línea**.
 
     - **Elementos de bloque**: Ocupan todo el ancho disponible y comienzan en una nueva línea. Ejemplos: `<div>`, `<p>`, `<h1>`-`<h6>`, `<ul>`, `<ol>`, `<li>`.
     - **Elementos en línea**: Ocupan solo el espacio necesario y no comienzan en una nueva línea. Ejemplos: `<span>`, `<a>`, `<strong>`, `<em>`.
 
-=== "Div & Span"
+=== "Div & span"
 
     |Div|Span|
     |---|---|

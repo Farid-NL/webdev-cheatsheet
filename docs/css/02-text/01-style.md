@@ -6,7 +6,7 @@ icon: lucide/italic
 
 ![Tarjeta de Resumen CSS 2](../../assets/images/css/02-text/01-styling/00-summary.svg)
 
-=== "Font Weight"
+=== "Font weight"
 
     Establece el grosor de los caracteres de texto.
 
@@ -23,7 +23,7 @@ icon: lucide/italic
     |500|Medium|
     |700|Bold|
 
-=== "Font Style"
+=== "Font style"
 
     Establece el estilo de la fuente.
 
@@ -35,7 +35,7 @@ icon: lucide/italic
           <h1>Cut your publishing time <span style="font-style: italic;">in half</span></h1>
           ```
 
-=== "List Style"
+=== "List style"
 
     Establece el estilo de la lista.
 
@@ -44,7 +44,7 @@ icon: lucide/italic
         **Siempre** se debe remover el estilo de las listas cuando sean
         usadas con [propósitos estructurales](../../html/02-text.md#__tabbed_2_2).
 
-=== "Text Decoration"
+=== "Text decoration"
 
     Establece las líneas decorativas del texto.
 
@@ -64,7 +64,7 @@ icon: lucide/italic
     2. Color de la línea
     3. Estilo de la línea
 
-=== "Text Transform"
+=== "Text transform"
 
     Establece las mayúsculas y minúsculas del texto.
 

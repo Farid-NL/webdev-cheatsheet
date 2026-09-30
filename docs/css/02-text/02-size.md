@@ -6,7 +6,7 @@ icon: lucide/ruler-dimension-line
 
 ![Tarjeta de Resumen CSS 3](../../assets/images/css/02-text/02-size/00-summary.svg)
 
-=== "Text Align"
+=== "Text align"
 
     Establece la alineación horizontal de un texto dentro de un elemento.
 
@@ -22,7 +22,7 @@ icon: lucide/ruler-dimension-line
         - Los ^^bloques largos de texto^^ deben estar **alineados a la izquierda**.
         - Los ^^encabezados^^ pueden estar **centrados**.
 
-=== "Line Height"
+=== "Line height"
 
     Establece el interlineado del texto.
 
@@ -31,7 +31,7 @@ icon: lucide/ruler-dimension-line
         - Los ^^encabezados^^ deben ser **menores a 1.5**.
         - El ^^texto regular^^ debe estar entre **1.5 y 2**.
 
-=== "Letter Spacing"
+=== "Letter spacing"
 
     Establece el espacio entre cada letra del texto.
 
@@ -40,7 +40,7 @@ icon: lucide/ruler-dimension-line
         Se suele aplicar un **pequeño valor negativo** en píxeles _(i.e `-3.6px`)_
         a los ^^encabezados^^ para mejorar la legibilidad.
 
-=== "Font Size"
+=== "Font size"
 
     Establece el tamaño de la fuente.
 
